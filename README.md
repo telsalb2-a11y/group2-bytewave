@@ -1,8 +1,5 @@
-# Europe-Travel-Website-html-css-js
-Create A Responsive Tour &amp; Travel Agency Website Design Using HTML / CSS / JS
-A Responsive Adventure & Tour Website Design Using HTML CSS  & JavaScript Step By Step
+# GROUP 2 PROJECT
+
+This repository has been cloned from "https://github.com/GNiruthian/Europe-Travel-Website-html-css-js" for educational purposes as part of the Google Bootcamp.
 
 
-# HTML
-# CSS
-# JS
