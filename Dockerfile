@@ -2,7 +2,7 @@
 FROM nginx:alpine
 
 # Copy your static website files into the Nginx web root directory
-COPY "./Europe Travel" /usr/share/nginx/html
+COPY europe-travel /usr/share/nginx/html
 
 # Expose port 80 to the outside world
 EXPOSE 80
